@@ -1,0 +1,13 @@
+{
+  "name": "Space Daily",
+  "short_name": "Space Daily",
+  "description": "Noticias espaciales explicadas, análisis técnico y seguimiento de misiones.",
+  "lang": "es",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#091523",
+  "theme_color": "#091523",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
