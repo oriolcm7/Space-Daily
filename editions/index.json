@@ -1,3 +1,9 @@
 {
-  "editions": []
+  "editions": [
+    {
+      "date": "2026-10-28",
+      "article_count": 36,
+      "file": "2026-10-28.json"
+    }
+  ]
 }

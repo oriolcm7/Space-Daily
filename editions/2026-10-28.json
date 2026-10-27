@@ -1,0 +1,371 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T00:23:18.660662+01:00",
+  "title": "Daily Space News",
+  "mode": "rss",
+  "article_count": 36,
+  "articles": [
+    {
+      "id": "8b48f7e53a97",
+      "title": "Ukrainian startup, GomSpace test satellite for future communications network",
+      "summary": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network The post Ukrainian startup, GomSpace test satellite for future communications network appeared first on SpaceNews .",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
+      "published": "2026-10-27T20:21:30+00:00",
+      "category": "Lanzadores",
+      "label": "SPACENEWS"
+    },
+    {
+      "id": "1281b65e0ea4",
+      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods […]",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+      "published": "2026-10-27T19:27:22+00:00",
+      "category": "Misiones",
+      "label": "NASA"
+    },
+    {
+      "id": "195a669b9f2c",
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and […]",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+      "published": "2026-10-27T17:58:57+00:00",
+      "category": "Misiones",
+      "label": "NASA"
+    },
+    {
+      "id": "e11b5437bb4c",
+      "title": "ESA’s INVICTUS Hypersonic Programme Clears First Major Review",
+      "summary": "The European Space Agency’s (ESA) INVICTUS hypersonic aircraft programme has cleared its first major requirements review and moved into the next phase of development, with a second review expected in October 2027. Stephan Carroll, INVICTUS chief engineer at Frazer-Nash, confirmed on LinkedIn on 23 October that the programme had successfully completed its first System Requirements […] The post ESA’s INVICTUS Hypersonic Programme Clears First Major Review appeared first on European Spaceflight .",
+      "source": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/esas-invictus-hypersonic-programme-clears-first-major-review/",
+      "published": "2026-10-27T14:32:07+00:00",
+      "category": "Industria",
+      "label": "EUROPEAN SPACEFLIGHT"
+    },
+    {
+      "id": "ca702f0403d3",
+      "title": "First light: Hera resolves two asteroids instead of one",
+      "summary": "The European Space Agency’s Hera spacecraft for planetary defence has resolved its two target asteroids separately for the very first time, revealing the binary nature of the Didymos system, currently some 197 million km away from Earth.",
+      "source": "ESA",
+      "url": "https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one",
+      "published": "2026-10-27T14:00:00+00:00",
+      "category": "Satélites",
+      "label": "ESA"
+    },
+    {
+      "id": "c457442f2331",
+      "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+      "summary": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications […] The post Craft Prospect kicks off PERSEUS project to advance optical communications for space appeared first on SpaceNews .",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
+      "published": "2026-10-27T12:00:00+00:00",
+      "category": "Ingeniería",
+      "label": "SPACENEWS"
+    },
+    {
+      "id": "512330eda424",
+      "title": "ESA procures four new Galileo Second Generation satellites",
+      "summary": "The European Space Agency (ESA) has extended ongoing contracts to build four additional Galileo Second Generation (G2) satellites, ensuring the long-term continuity of the constellation and supporting the rollout of new services. With this procurement, the Galileo Second Generation fleet grows to 16 satellites.",
+      "source": "ESA",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
+      "published": "2026-10-27T10:00:00+00:00",
+      "category": "Satélites",
+      "label": "ESA"
+    },
+    {
+      "id": "3cb0baf3db2a",
+      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+      "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.” In honor of National Mentoring Day on Oct. 27, Bhardwaj reflects on how Cohen’s […]",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+      "published": "2026-10-27T07:07:51+00:00",
+      "category": "Ingeniería",
+      "label": "NASA"
+    },
+    {
+      "id": "42c47802a842",
+      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+      "summary": "APOD Science APOD APOD: 2026 October 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Noctilucent Clouds over […]",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+      "published": "2026-10-27T04:05:00+00:00",
+      "category": "Misiones",
+      "label": "NASA"
+    },
+    {
+      "id": "4192c6ec4e43",
+      "title": "A-81 Reaches South Georgia",
+      "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+      "published": "2026-10-27T04:00:00+00:00",
+      "category": "Ingeniería",
+      "label": "NASA"
+    },
+    {
+      "id": "afc123f12d9b",
+      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+      "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+      "published": "2026-10-26T22:48:12+00:00",
+      "category": "Misiones",
+      "label": "NASA"
+    },
+    {
+      "id": "4d871b90c1fc",
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of […]",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+      "published": "2026-10-26T21:07:28+00:00",
+      "category": "Misiones",
+      "label": "NASA"
+    },
+    {
+      "id": "4fafad03f652",
+      "title": "NEO Surveyor’s Sunshade Gets Inspected",
+      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026. The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base. Its two flat […]",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+      "published": "2026-10-26T20:53:13+00:00",
+      "category": "Misiones",
+      "label": "NASA"
+    },
+    {
+      "id": "a3d0400ad669",
+      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies in Albuquerque, New Mexico, in January. Environmental […]",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+      "published": "2026-10-26T20:52:24+00:00",
+      "category": "Misiones",
+      "label": "NASA"
+    },
+    {
+      "id": "319292471200",
+      "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
+      "summary": "– Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe– New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews to supply […] The post Flexell Space Establishes French Subsidiary to Strengthen European Presence appeared first on SpaceNews .",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
+      "published": "2026-10-26T20:00:00+00:00",
+      "category": "Industria",
+      "label": "SPACENEWS"
+    },
+    {
+      "id": "2d210f62f176",
+      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+      "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEES Mission Architecture Tool for Research, Integration, and eXploration (MATRIX) team […]",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
+      "published": "2026-10-26T19:28:08+00:00",
+      "category": "Misiones",
+      "label": "NASA"
+    },
+    {
+      "id": "48455f6cb43a",
+      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+      "summary": "SAN FRANCISCO —October 26, 2026—Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it […] The post Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites appeared first on SpaceNews .",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+      "published": "2026-10-26T13:00:00+00:00",
+      "category": "Lanzadores",
+      "label": "SPACENEWS"
+    },
+    {
+      "id": "229b053f6948",
+      "title": "Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg",
+      "summary": "The Australian government has submitted a counteroffer to the European Space Agency (ESA) to secure a flight to the International Space Station for Australian astronaut Katherine Bennell-Pegg. Support for the mission is not universal in Australia, with one government official calling the spending “reckless.” Australian Minister for Science Tim Ayres confirmed on 23 October that […] The post Australia Counters ESA’s Offer for Mission to ISS for Bennell-Pegg appeared first on European Spaceflight .",
+      "source": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/australia-counters-esas-offer-for-mission-to-iss-for-bennell-pegg/",
+      "published": "2026-10-26T10:53:24+00:00",
+      "category": "Misiones",
+      "label": "EUROPEAN SPACEFLIGHT"
+    },
+    {
+      "id": "26d255e1b721",
+      "title": "Ice mission CRISTAL opens its wings",
+      "summary": "With its solar arrays integrated and key qualification reviews under way, Europe’s new ice-monitoring satellite, CRISTAL, is moving from assembly into the demanding testing phase that will demonstrate its readiness for the rigours of launch and life in orbit.",
+      "source": "ESA",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
+      "published": "2026-10-26T10:00:00+00:00",
+      "category": "Lanzadores",
+      "label": "ESA"
+    },
+    {
+      "id": "bd568c8cc54b",
+      "title": "Nov. 5: Satellite Mission Management at the Edge",
+      "summary": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews .",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
+      "published": "2026-10-23T19:53:25+00:00",
+      "category": "Satélites",
+      "label": "SPACENEWS"
+    },
+    {
+      "id": "0986bc4a4be0",
+      "title": "Week in images: 19-23 October 2026",
+      "summary": "Week in images: 19-23 October 2026 Discover our week through the lens",
+      "source": "ESA",
+      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_October_2026",
+      "published": "2026-10-23T13:15:00+00:00",
+      "category": "Ingeniería",
+      "label": "ESA"
+    },
+    {
+      "id": "39da0997e506",
+      "title": "ESA Director “Not Sure” Themis Will Make Its First Flight in 2026",
+      "summary": "The European Space Agency’s (ESA) Director of Space Transportation, Géraldine Naja, said on 22 October that she was uncertain whether the agency would be able to complete the first flight of its Themis reusable rocket demonstrator before the end of the year. Speaking at a media briefing following ESA’s 350th Council meeting in Paris, Naja […] The post ESA Director “Not Sure” Themis Will Make Its First Flight in 2026 appeared first on European Spaceflight .",
+      "source": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/esa-director-not-sure-themis-will-make-its-first-flight-in-2026/",
+      "published": "2026-10-23T11:06:47+00:00",
+      "category": "Lanzadores",
+      "label": "EUROPEAN SPACEFLIGHT"
+    },
+    {
+      "id": "deff5d26b48e",
+      "title": "Earth from Space: The pink city",
+      "summary": "Image: This image shows a detailed view of the city of Toulouse in southwest France, with its terracotta tiled rooftops lending it the nickname la ville rose, or the pink city.",
+      "source": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city",
+      "published": "2026-10-23T08:00:00+00:00",
+      "category": "Ingeniería",
+      "label": "ESA"
+    },
+    {
+      "id": "748596a8a2cb",
+      "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
+      "summary": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […] The post Rethinking networks in space with Aalyria’s Brian Barritt appeared first on SpaceNews .",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/",
+      "published": "2026-10-22T18:13:38+00:00",
+      "category": "Industria",
+      "label": "SPACENEWS"
+    },
+    {
+      "id": "d5eebf881f3a",
+      "title": "ESA Provides New Details on Failed Space Rider Drop Test",
+      "summary": "The European Space Agency (ESA) has provided new details about the failed Space Rider drop test, confirming that the vehicle’s parafoil detached during deployment, sending the full-scale test model back to terra firma more rapidly than planned. Speaking at an ESA media briefing on 22 October, Géraldine Naja, the agency’s Director of Space Transportation, provided […] The post ESA Provides New Details on Failed Space Rider Drop Test appeared first on European Spaceflight .",
+      "source": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/esa-provides-new-details-on-failed-space-rider-drop-test/",
+      "published": "2026-10-22T15:02:37+00:00",
+      "category": "Industria",
+      "label": "EUROPEAN SPACEFLIGHT"
+    },
+    {
+      "id": "3175b7b47c7d",
+      "title": "350th ESA Council: Media information session",
+      "summary": "Video: 01:45:34 Watch the replay of the media information session where ESA Director General Josef Aschbacher and ESA Council Chair at delegate level Juan Carlos Cortés outline the key decisions and main outcomes of the 350th Council meeting held at ESA Headquarters in Paris on 21—22 October 2026.",
+      "source": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session",
+      "published": "2026-10-22T14:00:00+00:00",
+      "category": "Ingeniería",
+      "label": "ESA"
+    },
+    {
+      "id": "cae059218a44",
+      "title": "ESA Open Days 2026",
+      "summary": "Video: 00:00:49 ESA Open Days 2026 welcomed over 23 000 visitors across its six establishments, giving the public the opportunity to discover more about Europe’s space activities, meet the people behind the missions and explore how ESA is shaping the future of space.",
+      "source": "ESA",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026",
+      "published": "2026-10-22T09:00:00+00:00",
+      "category": "Misiones",
+      "label": "ESA"
+    },
+    {
+      "id": "6bd940f5fb43",
+      "title": "ESA Council approves appointment of two new directors",
+      "summary": "The European Space Agency Council has approved the appointment of two new directors: Andrzej Banasiak as Director of Commercialisation and Industry Partnership, and Nicolaus Hanowski as Director of Space Operations.",
+      "source": "ESA",
+      "url": "https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors",
+      "published": "2026-10-22T08:26:00+00:00",
+      "category": "Industria",
+      "label": "ESA"
+    },
+    {
+      "id": "5a21ca3fde91",
+      "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
+      "summary": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, has been named a 2026 Inc. Power Partner Awards winner, recognizing the company among the leading B2B […] The post TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner appeared first on SpaceNews .",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/",
+      "published": "2026-10-21T15:26:29+00:00",
+      "category": "Industria",
+      "label": "SPACENEWS"
+    },
+    {
+      "id": "84d90136deee",
+      "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
+      "summary": "Paris, France | October 2026 – Global satellite services revenues are forecast to grow 44% to reach $145 billion by 2035, according to the 33rd edition of Novaspace’s Satellite Connectivity […] The post Global Satcom Services Revenues to Reach $145 Billion by 2035 appeared first on SpaceNews .",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035/",
+      "published": "2026-10-21T15:00:22+00:00",
+      "category": "Satélites",
+      "label": "SPACENEWS"
+    },
+    {
+      "id": "4ba14ab0f668",
+      "title": "Airbus Ships First Lightweight Vulcain Aft Bay for Ariane 6 Block 2",
+      "summary": "Airbus Netherlands has delivered the first lightweight Vulcain Aft Bay for Ariane 6 as part of the rocket’s Block 2 upgrades. In a 21 October LinkedIn post, Airbus Netherlands President Rob Postma announced that the upgraded structure, designated Flight Model 16 (FM16), was on its way to ArianeGroup in France via Rotterdam. According to Postma, […] The post Airbus Ships First Lightweight Vulcain Aft Bay for Ariane 6 Block 2 appeared first on European Spaceflight .",
+      "source": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/airbus-ships-first-lightweight-vulcain-aft-bay-for-ariane-6-block-2/",
+      "published": "2026-10-21T14:34:27+00:00",
+      "category": "Lanzadores",
+      "label": "EUROPEAN SPACEFLIGHT"
+    },
+    {
+      "id": "50e77034bc10",
+      "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+      "summary": "LOS ALAMOS, N.M. — October 21, 2026 — Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction […] The post Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller appeared first on SpaceNews .",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller/",
+      "published": "2026-10-21T14:29:57+00:00",
+      "category": "Industria",
+      "label": "SPACENEWS"
+    },
+    {
+      "id": "fe7c13eaf249",
+      "title": "Summer of Quantum: Building momentum for space-based QKD",
+      "summary": "Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […] The post Summer of Quantum: Building momentum for space-based QKD appeared first on SpaceNews .",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/",
+      "published": "2026-10-21T11:54:30+00:00",
+      "category": "Industria",
+      "label": "SPACENEWS"
+    },
+    {
+      "id": "2460e2e32ccd",
+      "title": "Space Rider Test Model Lost Following Failed Drop Test",
+      "summary": "A full-scale drop test of the European Space Agency’s Space Rider spaceplane ended abruptly after the test model’s parafoil failed to deploy as expected. This marks the second time this year that a Space Rider drop test has been interrupted by an anomaly, following an aborted attempt in May. The incident occurred during the vehicle’s […] The post Space Rider Test Model Lost Following Failed Drop Test appeared first on European Spaceflight .",
+      "source": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/space-rider-test-model-lost-following-failed-drop-test/",
+      "published": "2026-10-20T14:52:57+00:00",
+      "category": "Industria",
+      "label": "EUROPEAN SPACEFLIGHT"
+    },
+    {
+      "id": "568cc72349d0",
+      "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+      "summary": "LOS ANGELES — October 20, 2026 AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth communications for Reflect Orbital’s inaugural […] The post AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions appeared first on SpaceNews .",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
+      "published": "2026-10-20T13:00:00+00:00",
+      "category": "Misiones",
+      "label": "SPACENEWS"
+    },
+    {
+      "id": "dfeb5bf8efbc",
+      "title": "French MPs propose symbolic €1 budget line for VORTEX spaceplane",
+      "summary": "French lawmakers have proposed allocating a symbolic €1 for Dassault Aviation’s VORTEX spaceplane programme in an effort to compel the government to clarify its financial commitments to the project. In a 16 October amendment to France’s proposed 2027 budget, 71 MPs from the La France Insoumise party proposed creating a dedicated budget line for VORTEX […] The post French MPs propose symbolic €1 budget line for VORTEX spaceplane appeared first on European Spaceflight .",
+      "source": "European Spaceflight",
+      "url": "https://europeanspaceflight.com/french-mps-propose-symbolic-e1-budget-line-for-vortex-spaceplane/",
+      "published": "2026-10-20T10:15:39+00:00",
+      "category": "Industria",
+      "label": "EUROPEAN SPACEFLIGHT"
+    }
+  ],
+  "feed_errors": [],
+  "note": "Titulares y descripciones recopilados automáticamente de fuentes RSS. La traducción editorial con IA no está activada en esta versión gratuita."
+}
