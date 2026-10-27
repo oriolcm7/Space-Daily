@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#0a1423">
-  <meta name="description" content="Space Daily: noticias espaciales explicadas, análisis técnico y seguimiento de misiones.">
-  <title>Space Daily — El espacio, explicado</title>
+  <meta name="description" content="Daily Space News: noticias espaciales explicadas, análisis técnico y seguimiento de misiones.">
+  <title>Daily Space News — El espacio, explicado</title>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="#" aria-label="Space Daily, inicio">
-      <span class="brand-mark">✦</span><span>SPACE<span class="brand-light"> DAILY</span><small>YOUR DAILY BRIEFING FROM SPACE</small></span>
+    <a class="brand" href="#" aria-label="Daily Space News, inicio">
+      <span class="brand-mark">✦</span><span>DAILY<span class="brand-light"> SPACE NEWS</span><small>YOUR DAILY BRIEFING FROM SPACE</small></span>
     </a>
     <div class="top-actions">
       <span class="live-dot"></span><span class="edition-label">BRIEFING ESPACIAL</span>
@@ -52,9 +52,9 @@
       <div><p class="kicker">LA SELECCIÓN DE HOY</p><h2>En órbita ahora</h2></div>
       <label class="search-wrap"><span>⌕</span><input id="searchInput" type="search" placeholder="Buscar noticias…" aria-label="Buscar noticias"></label>
     </section>
-    <div class="notice" id="demoNotice"><strong>Versión inicial</strong> · Las noticias que aparecen aquí son contenido de demostración para probar el diseño, no un feed de noticias actualizado automáticamente.</div>
+    <div class="notice" id="statusNotice"><strong>Edición RSS</strong> · Cargando noticias y archivo de ediciones. Las descripciones proceden de los feeds originales; abre cada fuente para leer la noticia completa.</div>
 
-    <section class="news-grid" id="newsGrid" aria-live="polite"></section>
+    <div class="edition-controls"><span id="editionStatus">EDICIÓN MÁS RECIENTE</span><button class="text-link" id="latestEdition">Volver a la última edición ↗</button></div><section class="news-grid" id="newsGrid" aria-live="polite"></section>
     <div class="empty-state hidden" id="emptyState">No hay noticias que coincidan. Prueba con otra búsqueda o categoría.</div>
 
     <section class="lower-grid">
@@ -75,13 +75,13 @@
           <li><span class="watch-num">02</span><div><strong>Acceso al espacio</strong><small>Cadencia de lanzamientos y reutilización.</small></div></li>
           <li><span class="watch-num">03</span><div><strong>Autonomía europea</strong><small>Programas, contratos y capacidades industriales.</small></div></li>
         </ul>
-        <div class="control-footer"><span>SPACE DAILY / INSIGHT</span><span>● 03 TEMAS</span></div>
+        <div class="control-footer"><span>DAILY SPACE NEWS / INSIGHT</span><span>● 03 TEMAS</span></div>
       </aside>
     </section>
 
     <section class="archive-section">
       <div class="section-heading archive-heading"><div><p class="kicker">CONSULTA CUANDO QUIERAS</p><h2>Archivo de ediciones</h2></div><span class="archive-note">La hemeroteca aparecerá aquí al guardar nuevas ediciones.</span></div>
-      <div class="archive-empty"><span class="archive-icon">▤</span><div><strong>Tu archivo empieza aquí</strong><p>La primera versión es una web estática. Para conservar ediciones reales y publicarlas automáticamente añadiremos una fuente de datos y un proceso editorial programado.</p></div></div>
+      <div class="archive-empty" id="archiveList"><span class="archive-icon">▤</span><div><strong>Cargando hemeroteca…</strong><p>Las ediciones guardadas aparecerán aquí.</p></div></div>
     </section>
 
     <section class="subscribe-strip">
@@ -90,7 +90,7 @@
     </section>
   </main>
 
-  <footer><a class="footer-brand" href="#">✦ SPACE DAILY</a><span>Noticias espaciales, explicadas con contexto.</span><span>PROTOTIPO · V1.0</span></footer>
+  <footer><a class="footer-brand" href="#">✦ DAILY SPACE NEWS</a><span>Noticias espaciales, explicadas con contexto.</span><span>RSS EDITION · V2.0</span></footer>
 
   <dialog id="articleDialog" class="article-dialog">
     <button class="dialog-close" id="dialogClose" aria-label="Cerrar">×</button>

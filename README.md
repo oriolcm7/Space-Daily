@@ -1,39 +1,33 @@
-# Space Daily — prototipo web
+# Daily Space News — versión gratuita RSS
 
-Esta es una primera versión estática y adaptable a móvil de Space Daily.
+Web estática para GitHub Pages. Recopila titulares y descripciones desde feeds RSS, los guarda en archivos JSON por fecha y mantiene una hemeroteca. No usa API de pago ni necesita claves.
 
-## Qué incluye
-- Diseño híbrido entre revista y panel de control.
-- Portada con noticias de demostración.
-- Filtros por categoría y búsqueda.
-- Ventana de lectura para cada análisis.
-- Concepto técnico del día desplegable.
-- Alternancia de tema claro/oscuro.
-- Manifest e icono para preparar la instalación como aplicación web.
+## Fuentes RSS configuradas
+- NASA News Releases
+- SpaceNews
+- European Spaceflight
+- ESA Space News
+
+El script puede omitir una fuente temporalmente inaccesible y deja el error registrado en el JSON de la edición. Los feeds y sus formatos pueden cambiar; revisa Actions si una fuente deja de funcionar. El contenido se conserva enlazado a su fuente original. En esta versión no se generan traducciones ni análisis mediante IA.
+
+## Instalación en el repositorio `oriolcm7/Space-Daily`
+1. Descarga el ZIP y descomprímelo en tu ordenador.
+2. En GitHub abre `oriolcm7/Space-Daily` → **Add file → Upload files**.
+3. Sube todos los archivos y carpetas de esta carpeta, respetando las rutas. Acepta reemplazar `index.html`, `app.js`, `styles.css`, `manifest.webmanifest` e `icon.svg` si te lo pregunta. Deben aparecer también `.github/workflows/daily-news.yml`, `scripts/update_news.py` y la carpeta `editions` con `index.json`.
+4. Abre **Actions** en el repositorio. Si GitHub pide habilitar workflows, acepta.
+5. En **Actions → Update Daily Space News → Run workflow → Run workflow**, inicia la primera recopilación manual.
+6. Espera a que el flujo termine en verde. El script creará `editions/AAAA-MM-DD.json` y actualizará `editions/index.json`; los cambios se guardan automáticamente en el repositorio.
+7. Recarga GitHub Pages. La primera publicación puede tardar un par de minutos.
+
+## Actualización diaria
+El workflow está programado para las 07:17 de `Europe/Madrid`. GitHub puede retrasar ejecuciones programadas durante periodos de carga; no se garantiza el minuto exacto. También se puede ejecutar manualmente desde Actions.
+
+El workflow requiere permiso `contents: write`, definido en el YAML. Si falla al hacer push, revisa **Settings → Actions → General → Workflow permissions** y permite acceso de lectura y escritura al contenido del repositorio.
+
+## Cómo funciona el archivo
+Cada edición queda guardada en `editions/AAAA-MM-DD.json`. Las ediciones anteriores no se sobrescriben. Si se ejecuta más de una vez el mismo día, se actualiza la edición de ese día. La página usa `editions/index.json` para mostrar la hemeroteca.
 
 ## Importante
-Las noticias y explicaciones de las tarjetas son contenido de demostración. No son noticias actuales verificadas ni se actualizan automáticamente. Antes de publicar para otras personas, sustituye ese contenido por ediciones revisadas con fechas y enlaces a fuentes originales.
-
-## Publicación gratuita con GitHub Pages
-1. Crea o inicia sesión en https://github.com
-2. Crea un repositorio llamado `space-daily`. Para esta primera versión, configura el repositorio como **Public**.
-3. Sube todos los archivos de esta carpeta a la raíz del repositorio: `index.html`, `styles.css`, `app.js`, `manifest.webmanifest` e `icon.svg`.
-4. En el repositorio, abre **Settings → Pages**.
-5. En **Build and deployment**, selecciona **Deploy from a branch**, elige `main` y `/ (root)`, y guarda.
-6. Espera a que termine la publicación. GitHub mostrará una URL similar a `https://TU-USUARIO.github.io/space-daily/`.
-7. Abre la URL en Safari en el iPhone → botón Compartir → **Añadir a pantalla de inicio**.
-
-La URL exacta dependerá de tu nombre de usuario de GitHub. No está publicada todavía.
-
-## Dominio propio
-Más adelante puedes comprar un dominio y configurarlo desde **Settings → Pages → Custom domain**. Después configura los registros DNS que indique GitHub y activa HTTPS cuando esté disponible.
-
-## Cómo funciona la actualización
-Esta versión es estática. Para que publique noticias automáticamente hará falta añadir:
-- Una fuente fiable de noticias (por ejemplo, feeds RSS de agencias y medios).
-- Un proceso programado para recopilar y deduplicar noticias.
-- Una etapa de generación y verificación editorial.
-- Un lugar donde guardar las ediciones (por ejemplo, archivos JSON en el repositorio o una base de datos).
-- Un programador diario y un despliegue automático.
-
-No guardes claves API en `app.js` ni en archivos públicos. Los secretos deben permanecer en el servidor o en los ajustes seguros del servicio que ejecute el proceso.
+- Esta es una recopilación automática de titulares, no una verificación editorial completa. Comprueba el artículo original antes de confiar en detalles sensibles o técnicos.
+- Los feeds RSS pueden contener solo extractos y no siempre incluyen imágenes.
+- No se necesita `OPENAI_API_KEY` ni configurar facturación.
