@@ -1,6 +1,11 @@
 {
   "editions": [
     {
+      "date": "2026-11-28",
+      "article_count": 20,
+      "file": "2026-11-28.json"
+    },
+    {
       "date": "2026-11-27",
       "article_count": 32,
       "file": "2026-11-27.json"
